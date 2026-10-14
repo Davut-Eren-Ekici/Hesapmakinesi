@@ -28,6 +28,7 @@ public class Main {
         System.out.print("Lütfen 1. sayıyı giriniz: ");
         int sayi1 = scanner.nextInt();
         System.out.print("Lütfen 2. sayıyı giriniz: ");
+        
         int sayi2 = scanner.nextInt();
         System.out.print("Lütfen yapmak istediğiniz işlemi seçiniz(+, -, *, /): ");
         String islem = scanner.next();
